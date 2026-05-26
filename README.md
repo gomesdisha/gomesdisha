@@ -15,7 +15,7 @@
 
 ## 🙋‍♀️ About Me
 
-- 🎓 &nbsp; B.Tech in **Computer & Communication Engineering** at Manipal Institute of Technology, MAHE
+- 🎓 &nbsp; B.Tech in **Computer & Communication Engineering** at Manipal Institute of Technology, MAHE, Manipal
 - 🔭 &nbsp; Currently building **Sahaya** — an AI-powered Android disaster management app (Gemini API + Firebase)
 - 🌱 &nbsp; Learning **Generative AI**, **Agentic AI**, and improving Python skills
 - 🛠️ &nbsp; I ship projects using AI-assisted workflows: **Cursor IDE**, **Trae**, **Google AI Studio**
@@ -74,24 +74,6 @@ Cybersecurity platform for invisible watermarking of images and PDFs using AES-2
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
-
----
-
-## 📜 Certifications
-
-- 🏅 **Google AI Essentials Professional Certificate** (7-course specialization) — Google / Coursera · 2025
-- 🏅 **Google Prompting Essentials** — Google / Coursera · 2025
-- 🏅 **Introduction to Front-End Development** — Meta / Coursera · 2024
-- 🏅 **UI/UX Design Hands-On Workshop** — Rablo.in / Unstop · 2024
-
----
-
-## 🌟 Highlights
-
-- 🎤 **SABRE Impact Week, Bangalore** — Represented MIT Manipal; co-developed & presented an ideation interface prototype in an industry-competitive setting
-- 🎪 **Core Committee** — Tech Tatva '25 (National-level Tech Fest, MIT Manipal) · Social Media & Graphic Design
-- 🎨 **Social Media & Design Head** — Chords & Co., MIT Manipal (led junior design team)
-- 🎭 **Designer** — Revels '25 Cultural Fest Organizing Committee, MIT Manipal
 
 ---
 
