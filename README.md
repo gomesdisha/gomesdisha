@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C084FC,50:818CF8,100:38BDF8&height=180&section=header&text=Disha%20Gomes&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ML%20%C2%B7%20Full-Stack%20%C2%B7%20Android%20%C2%B7%20GenAI&descAlignY=56&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C084FC,50:818CF8,100:38BDF8&height=180&section=header&text=Disha%20Gomes&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ML%20%C2%B7%20Full-Stack%20%C2%B7%20Android-Dev%20%C2%B7%20GenAI&descAlignY=56&descSize=15" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=A78BFA&center=true&vCenter=true&width=520&lines=B.Tech+CCE+%40+MIT+Manipal+(2023%E2%80%932027);ML+Research+Intern+%40+ISRO+%F0%9F%9A%80;Building+Satellite+Anomaly+Detection+Systems;Open+to+ML+%26+Software+Engineering+Internships)](https://git.io/typing-svg)
 
