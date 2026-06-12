@@ -20,11 +20,6 @@
 
 Building an end-to-end ML pipeline for satellite TC/TM time-series data: ingestion → preprocessing → feature engineering → model training → evaluation. Currently benchmarking unsupervised models, next phase moves to LSTM/TCN/GRU for sequence-aware detection, final phase targets a real-time anomaly detection pipeline.
 
-| Model | Precision | Recall | F1 | AUC | Train Time |
-|-------|-----------|--------|-----|-----|------------|
-| Isolation Forest | 0.9875 | 0.6497 | 0.7838 | 0.9234 | 0.29s |
-| One-Class SVM | 0.9263 | **0.9777** | **0.9513** | **0.9662** | 0.01s |
-
 ---
 
 ## 🚀 Featured Projects
