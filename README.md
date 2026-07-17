@@ -27,7 +27,7 @@ Building an end-to-end ML pipeline for satellite TC/TM time-series data: ingesti
 | &nbsp; | Project | Stack | About |
 |--------|---------|-------|-------|
 | 🆘 | **[Sahaya](https://github.com/gomesdisha/Sahaya)** | Java · Firebase · Gemini API · Google Maps | AI-powered Android disaster management app — real-time reporting, SOS alerts, volunteer coordination, Gemini chatbot |
-| 🥗 | **[NutriTracker](https://github.com/gomesdisha/NutriTracker)** | MERN · Chart.js · JWT | Child nutrition monitoring system with WHO malnutrition detection and real-time analytics dashboards |
+| 🥗 | **[NutriTracker](https://github.com/gomesdisha/NutriTracker-)** | MERN · Chart.js · JWT | Child nutrition monitoring system with WHO malnutrition detection and real-time analytics dashboards |
 | 🔐 | **[AquaGuard](https://github.com/gomesdisha/Aquagard--A-digital-watermarking-and-copyright-protection-system)** | Python · React · MongoDB · AES-256 | Invisible watermarking platform using AES-256, SHA-3 hashing, and LSB steganography |
 
 ---
