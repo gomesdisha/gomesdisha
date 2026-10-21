@@ -96,7 +96,7 @@ Built an end-to-end anomaly detection system on live satellite TC/TM sensor data
 ![Figma](https://img.shields.io/badge/Figma-818CF8?style=flat-square&logo=figma&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-6D28D9?style=flat-square&logo=androidstudio&logoColor=white)
 
-[![My GitHub stats](https://vercel.app)](https://github.com/gomesdisha)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?gomesdisha=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
 
 
 ---
